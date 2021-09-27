@@ -1,0 +1,16 @@
+{
+  "name": "express-js-demo",
+  "version": "1.0.0",
+  "description": "This is a demo app",
+  "main": "app.js",
+  "scripts": {
+    "start": "nodemon app.js"
+  },
+  "author": "shoaib",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^10.0.0",
+    "express": "^4.17.1",
+    "mysql": "^2.18.1"
+  }
+}
